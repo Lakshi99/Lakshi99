@@ -45,7 +45,6 @@
 </tr>
 </table>
 
----
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshika-bandara-845607219/" target="blank"><img align="center"
