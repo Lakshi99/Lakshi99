@@ -21,16 +21,6 @@
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
 <h3 align="center">My Statistics:</h3>
