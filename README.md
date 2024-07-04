@@ -39,7 +39,7 @@
   <a href="https://github.com/Lakshi99">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lakshi99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/RavinduLakshitha1">
+  <a href="https://github.com/Lakshi99">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lakshi99&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
