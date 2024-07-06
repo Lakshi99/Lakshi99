@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyy!+I'm+Lakshika+Bandara;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=90&width=900&lines=Heyy!+I'm+Lakshika+Bandara;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <h1 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka🌟.</h1>
@@ -10,7 +10,7 @@
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="200px" height="200px">
 <br>
 
-- 🌱 I’m currently learning Web Development and enhancing my skills in multiple programming languages.
+- 🌱 I’m currently learning Web Development and enhancing <br>   my skills in multiple programming languages.
 
 - 📫 How to reach me **lakshikabandara601@gmail.com**
 
