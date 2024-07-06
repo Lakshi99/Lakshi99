@@ -7,7 +7,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lakshi99&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px" height="300px">
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="280px" height="280px">
 <br>
 <br>
 <br>
