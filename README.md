@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyy!+I'm+Lakshika+Bandara;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-<h2 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka🌟.</h2>
+<h1 align="center">Software Engineering Undergraduate at Sabaragamuwa University of Sri Lanka🌟.</h1>
 
 
 
