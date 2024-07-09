@@ -17,7 +17,7 @@
   
 - 🌱 I’m currently learning Web Development and enhancing <br>   my skills in multiple programming languages.
 
-- 📫 How to reach me:- lakshikabandara601@gmail.comm
+- 📫 How to reach me:- lakshikabandara601@gmail.com
 
 - ⚡ Fun fact :- I love coding and eating!👩‍💻🍕
  </h3> 
