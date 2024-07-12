@@ -19,7 +19,7 @@
 
 - 📫 How to reach me:- lakshikabandara601@gmail.com
 
-- ⚡ Fun fact :- I love oding and !👩‍💻🍕
+- ⚡ Fun fact :- I love coding and eating!👩‍💻🍕
  </h3> 
 
 
