@@ -15,7 +15,7 @@
 <br>
 <h3>
   
-- 🌱 I’m currently learning Web Development and enhancing <br>   my skills in multiple programming languages.
+- 🌱 I’m learning Web Development and enhancing <br>   my skills in multiple programming languages.
 
 - 📫 How to reach me:- lakshikabandara601@gmail.com
 
